@@ -19,7 +19,7 @@ https://resuscanner.netlify.app/
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/priyansupattanaik/resuscanner.ai.git
+git clone https://github.com/arjun-xd8/resume-scanner.git
 cd resuscanner.ai
 ```
 
